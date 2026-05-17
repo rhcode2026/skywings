@@ -5,7 +5,7 @@ Home
 <img width="1897" height="946" alt="image" src="https://github.com/user-attachments/assets/2b6e5c87-057f-4dc8-a36b-32f266b0708f" />
 Popular destinations and others.
 
-here is the URL: - [Website](skywings2026.netlify.app)
+here is the URL: - [Skywings](https://skywings2026.netlify.app/)
 
 
 
